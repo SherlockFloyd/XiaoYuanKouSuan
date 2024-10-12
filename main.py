@@ -1,6 +1,5 @@
 """
 Author: fengshao
-Email: [你的电子邮件]
 Date: 2024/10/10 12:27
 Description: 小猿口算脚本
 """
